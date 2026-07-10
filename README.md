@@ -27,6 +27,9 @@ I'm learning modern AI Engineering concepts including:
 - System Prompts
 - Temperature
 
+#### Day 3
+- Tokens and their usage
+
 ## Tech Stack
 
 - Python
