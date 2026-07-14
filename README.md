@@ -30,6 +30,8 @@ I'm learning modern AI Engineering concepts including:
 #### Day 3
 - Tokens and their usage
 
+#### Day 4
+- Pydantic and conversion of data in JSON format
 ## Tech Stack
 
 - Python
