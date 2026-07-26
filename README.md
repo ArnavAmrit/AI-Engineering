@@ -8,6 +8,7 @@ I'm learning modern AI Engineering concepts including:
 
 - LLM APIs
 - Prompt Engineering
+- Structured Outputs
 - RAG (Retrieval-Augmented Generation)
 - Vector Databases
 - AI Agents
@@ -28,17 +29,34 @@ I'm learning modern AI Engineering concepts including:
 - Temperature
 
 #### Day 3
-- Tokens and their usage
+- LLM Tokens
+- Token Usage
+- Token Counting
 
 #### Day 4
-- Pydantic and conversion of data in JSON format
+- Pydantic Models
+- Structured Outputs
+- JSON Serialization and Deserialization
+- Accessing Structured Data using Pydantic Models
+
+---
+
+### Week 2
+
+#### Day 5
+- Tool Creation
+- Tool Registration and Usage
+- ReAct (Reason + Act) Workflow
+- LLM Reasoning with Tool Calling
+
 ## Tech Stack
 
 - Python
 - uv
-- Groq
-- Qdrant (coming soon)
+- Groq API
+- Pydantic
+- Qdrant (Coming Soon)
 
 ---
 
-> This is a learning repository and will be updated as I progress through the course.
+> This repository documents my AI Engineering learning journey through hands-on implementation and projects.
