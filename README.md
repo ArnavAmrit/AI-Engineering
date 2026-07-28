@@ -49,6 +49,12 @@ I'm learning modern AI Engineering concepts including:
 - ReAct (Reason + Act) Workflow
 - LLM Reasoning with Tool Calling
 
+#### Day 6
+- Prompt Chaining
+- Multi-Step LLM Workflows
+- Sequential Prompt Execution
+- Passing Context Between LLM Calls
+
 ## Tech Stack
 
 - Python
