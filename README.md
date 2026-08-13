@@ -55,6 +55,12 @@ I'm learning modern AI Engineering concepts including:
 - Sequential Prompt Execution
 - Passing Context Between LLM Calls
 
+
+### Week 3
+
+#### Day 7
+- Intro to Rag and its basic understanding
+
 ## Tech Stack
 
 - Python
