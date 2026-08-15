@@ -61,6 +61,11 @@ I'm learning modern AI Engineering concepts including:
 #### Day 7
 - Intro to Rag and its basic understanding
 
+#### Day 8
+- Learnt about cosine similarity 
+- Learnt about embeddings
+- Built a simple RAG system
+
 ## Tech Stack
 
 - Python
