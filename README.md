@@ -1,6 +1,6 @@
 # AI Engineering
 
-This repository documents my journey of learning AI Engineering through hands-on coding and projects.
+This repository documents my journey of learning AI Engineering through hands-on coding, experiments, and projects.
 
 ## About
 
@@ -10,6 +10,7 @@ I'm learning modern AI Engineering concepts including:
 - Prompt Engineering
 - Structured Outputs
 - RAG (Retrieval-Augmented Generation)
+- Embeddings
 - Vector Databases
 - AI Agents
 - MCP
@@ -36,8 +37,8 @@ I'm learning modern AI Engineering concepts including:
 #### Day 4
 - Pydantic Models
 - Structured Outputs
-- JSON Serialization and Deserialization
-- Accessing Structured Data using Pydantic Models
+- JSON Serialization & Deserialization
+- Accessing Structured Data with Pydantic
 
 ---
 
@@ -45,26 +46,38 @@ I'm learning modern AI Engineering concepts including:
 
 #### Day 5
 - Tool Creation
-- Tool Registration and Usage
-- ReAct (Reason + Act) Workflow
-- LLM Reasoning with Tool Calling
+- Tool Registration & Usage
+- ReAct (Reason + Act)
+- LLM Tool Calling
 
 #### Day 6
 - Prompt Chaining
 - Multi-Step LLM Workflows
 - Sequential Prompt Execution
-- Passing Context Between LLM Calls
+- Context Passing Between LLM Calls
 
+---
 
 ### Week 3
 
 #### Day 7
-- Intro to Rag and its basic understanding
+- Introduction to RAG
+- Retrieval-Augmented Generation Fundamentals
+- RAG Architecture
 
 #### Day 8
-- Learnt about cosine similarity 
-- Learnt about embeddings
-- Built a simple RAG system
+- Cosine Similarity
+- Sentence Transformers
+- Embeddings
+- Built a Simple RAG System
+
+#### Day 9
+- Qdrant Vector Database
+- Collections & Points
+- Payload Metadata
+- Vector Storage & Upsert
+- Similarity Search
+- Semantic Retrieval with Qdrant
 
 ## Tech Stack
 
@@ -72,8 +85,9 @@ I'm learning modern AI Engineering concepts including:
 - uv
 - Groq API
 - Pydantic
-- Qdrant (Coming Soon)
+- Sentence Transformers
+- Qdrant
 
 ---
 
-> This repository documents my AI Engineering learning journey through hands-on implementation and projects.
+> This repository documents my AI Engineering journey through practical implementation of modern LLM, RAG, and Agentic AI concepts.
