@@ -79,6 +79,13 @@ I'm learning modern AI Engineering concepts including:
 - Similarity Search
 - Semantic Retrieval with Qdrant
 
+#### Day 10
+- Qdrant Payload Filters
+- Metadata-Based Vector Search
+- HNSW (Hierarchical Navigable Small World) Index
+- Approximate Nearest Neighbor (ANN) Search
+- Optimizing Vector Retrieval Performance
+
 ## Tech Stack
 
 - Python
